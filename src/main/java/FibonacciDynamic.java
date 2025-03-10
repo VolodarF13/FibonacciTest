@@ -22,6 +22,3 @@ class FibonacciDynamic {
         System.out.println("Fibonacci(" + n + ") = " + result);
     }
 }
-
-
-
