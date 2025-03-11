@@ -1,6 +1,6 @@
 class fibonacciRecurse {
-    public static long fibonacci(long n){
-        if(n <= 1){
+    public static long fibonacci(long n) {
+        if (n <= 1) {
             return n;
         }
 
